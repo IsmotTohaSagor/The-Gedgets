@@ -1,0 +1,70 @@
+.container{
+    margin-bottom: 100px;
+}
+.btn{
+    padding: 7px 15px;
+    background-color: black;
+    color:aliceblue;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 3px 3px 10px lightgray;
+    border-radius: 10px;
+}
+h2{
+    margin: 25px 0;
+}
+h5{
+    margin:20px 0;
+}
+h3{
+    margin-top: 100px;
+    }
+.phn-img{
+    padding: 40px;
+}
+.container h4{
+   position: absolute;
+   margin: 38px 0;
+    
+}
+.container .see{
+    color: rgb(235, 127, 38);
+    font-weight: bold;
+   margin: 31px 0;
+}
+.lp-img{
+    padding: 35px 0 15px 15px;
+
+}
+.row1{
+    margin: 25px;
+}
+.card-style{
+    margin: 23px;
+    padding: 37px;
+}
+.card-core{
+    border: none;
+    box-shadow: none;
+    margin-left: -56px;
+    padding: 28px;
+}
+.card-bag{
+    margin: 32px;
+    padding: 41px;
+}
+.name{
+    text-align: center;
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+    display: block;
+    
+    width: 134px;
+    margin: auto;
+}
+
+
